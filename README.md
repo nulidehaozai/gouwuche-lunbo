@@ -1,4 +1,5 @@
 # gouwuche
+有轮播图组件，有需要可以直接提出来使用，在gouwu.vue文件中更改图片和文字，将lunbo.vue引入。
 
 ## Project setup
 ```
